@@ -25,10 +25,8 @@ I am a full-stack software engineer with a desire to learn and collaborate with 
 
 ### Statistics
 
-<img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jerryphan1&show_icons=true&hide_border=true" /> 
+<img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jerryphan1&show_icons=true" /> 
 <img alt="Jerry's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryphan1" />
-
-<br>
 
 ### Contact
 * [Linkedin](https://www.linkedin.com/in/jerry-phan-8615a7a3/)

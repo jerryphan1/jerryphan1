@@ -1,9 +1,7 @@
 ## Jerry A Phan 
-Hi 👋 My name is Jerry Phan, a full-stack software engineer with a desire to learn and collaborate with others! Check out some of my work!
+Hi 👋 My name is Jerry Phan
 
-* [U2be](https://the-u2be.herokuapp.com/#/) 
-* [LFG](http://lfg-mern.herokuapp.com/#/)
-* [Song Catchers](https://jerryphan1.github.io/Song-Catchers/)
+
 
 <br>
 

@@ -51,11 +51,6 @@ Hi 👋 My name is Jerry Phan
 <a href="https://github.com/jerryphan1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryphan1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 
-### Contact
-<a align="left" href="https://www.linkedin.com/in/jerry-phan-8615a7a3/" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/42de1703076abcd8c3a335ddf026352f01decd5671ebf13bc92e01ffe4e1057d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465246c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f617277656e2d6b696d2d383561303162323231" alt="image" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white$link=https://www.linkedin.com/in/jerry-phan-8615a7a3/" style="max-width: 100%;"></a>
-<a href="mailto:jerryphan1@gmail.com" target='_blank'><img src="https://camo.githubusercontent.com/afbb92c740a3a311ab307b071fb559ccf8e62f10b4401531305942eb8694e950/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a617277656e736f6f6a696e6b696d40676d61696c2e636f6d" alt="image" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:arwensoojinkim@gmail.com" style="max-width: 100%;"></a>
-<a align="right" target='_blank' href="https://angel.co/u/jerry-a-phan" rel="nofollow"><img src="https://camo.githubusercontent.com/fdd627a967b9943dcc0811b47c62b1cb6578da40fe3d164514257ee57f0563d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d6236623962393f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b" alt="image" style="max-width: 100%;"></a>
-
 
 <!--
 **jerryphan1/jerryphan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
